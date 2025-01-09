@@ -1,10 +1,10 @@
 resource_group_name = "rg-velidaaks"
-location = "useast2"
+location = "useast"
 tags = {
   environment = "prod"
   owner = "willvelida"
   application = "velidaaks"
-  location = "useast2"
+  location = "useast"
   sub = "MVP-sub"
   type = "POC"
 }
