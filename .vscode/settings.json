@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "apps/radius-dapr-demo/AlbumCatalog.UI/AlbumCatalog.UI.sln"
+}
