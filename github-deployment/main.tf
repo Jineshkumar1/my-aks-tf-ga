@@ -1,6 +1,4 @@
-data "azurerm_subscription" "sub" {
-
-}
+data "azurerm_subscription" "sub" {}
 
 module "tf-resource-group" {
   source   = "../modules/resource-group"
